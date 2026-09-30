@@ -9,7 +9,9 @@ Full-stack app demonstrating REST, WebSockets (Socket.io), JSON-RPC 2.0 and Serv
 
 * Frontend: ordertracke.netlify.app
 
-Backend: https://ordertracker2-kfpn3kan.b4a.run/  Run locally
+Backend: https://ordertracker2-kfpn3kan.b4a.run  
+
+Run locally
 
 ```bash
 cd backend
